@@ -1,0 +1,11 @@
+C:\Users\James\Desktop\Hacking\EfiLive_Patcher\bin\Debug\DaysGone_patch.exe.config
+C:\Users\James\Desktop\Hacking\EfiLive_Patcher\bin\Debug\DaysGone_patch.exe
+C:\Users\James\Desktop\Hacking\EfiLive_Patcher\bin\Debug\DaysGone_patch.pdb
+C:\Users\James\Desktop\Hacking\EfiLive_Patcher\obj\Debug\DaysGone_patch.csproj.AssemblyReference.cache
+C:\Users\James\Desktop\Hacking\EfiLive_Patcher\obj\Debug\DaysGone_patch.csproj.SuggestedBindingRedirects.cache
+C:\Users\James\Desktop\Hacking\EfiLive_Patcher\obj\Debug\DaysGone_patch.Form1.resources
+C:\Users\James\Desktop\Hacking\EfiLive_Patcher\obj\Debug\$safeprojectname$.Properties.Resources.resources
+C:\Users\James\Desktop\Hacking\EfiLive_Patcher\obj\Debug\DaysGone_patch.csproj.GenerateResource.cache
+C:\Users\James\Desktop\Hacking\EfiLive_Patcher\obj\Debug\DaysGone_patch.csproj.CoreCompileInputs.cache
+C:\Users\James\Desktop\Hacking\EfiLive_Patcher\obj\Debug\DaysGone_patch.exe
+C:\Users\James\Desktop\Hacking\EfiLive_Patcher\obj\Debug\DaysGone_patch.pdb
